@@ -1,7 +1,7 @@
 def add(num1, num2):
-    a = num1
-    b = num2
-    return a+b
+    number1 = num1
+    number2 = num2
+    return number1+number2
 
 num1 = int(input("enter number1 >> "))
 num2 = int(input("enter number2 >> "))
